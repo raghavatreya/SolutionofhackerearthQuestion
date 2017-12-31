@@ -1,10 +1,11 @@
 '''
 https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/motu-and-patlu-1-ab612ad8/
 
-In this question the greedy step is take the atleat twice ice cream for motu
+In this question the greedy step is take the atleast twice ice cream for motu
 then pick the ice cream for patlu
 
 ! Be cautious About the list out of Bound Error
+
 '''
 # Write your code here
 t = int(input())
