@@ -36,3 +36,12 @@ while t >= 1:
     else:
         print(motu,patlu,"\nTie")
     
+# This code is not readable
+
+def setdefault_example():
+    std_dict = dict()
+    for k, v  in enumerate(range(5)):
+        std_dict.setdefault(k, []).append(v)
+    return std_dict
+
+setdefault_example()
